@@ -4,11 +4,13 @@
 👩🏻‍💻 Aspiring Software Engineer sharing my journey and ongoing learnings in tech.<br/>
 👩🏻‍🎓 Studing [Software Engineering](http://www.iit.du.ac.bd/) at the University of Dhaka, Bangladesh<br/>
 💭 Currently learning about System Design, Human Computer Interaction, AI and Web development <br/>
-
+🔭 I’m currently involved with [BARTA] exploring Innovative NLP Solutions.
+<br/>
+<br/>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=adity1234567&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 
 
@@ -22,8 +24,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
+<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=adity1234567&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--
 **adity1234567/adity1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
