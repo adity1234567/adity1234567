@@ -1,15 +1,16 @@
 
 # 👋 Hi, I'm Adity!
+
 👩🏻‍💻 Aspiring Software Engineer sharing my journey and ongoing learnings in tech.<br/>
 👩🏻‍🎓 Studing [Software Engineering](http://www.iit.du.ac.bd/) at the University of Dhaka, Bangladesh<br/>
-<!--🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
--->
 💭 Currently learning about System Design, Human Computer Interaction, AI and Web development <br/>
+
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=adity1234567&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
