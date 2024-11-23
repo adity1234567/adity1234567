@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Adity!
 
 👩🏻‍💻 Aspiring Software Engineer sharing my journey and ongoing learnings in tech.<br/>
-👩🏻‍🎓 Studing [Software Engineering](http://www.iit.du.ac.bd/) at the University of Dhaka, Bangladesh<br/>
+👩🏻‍🎓 Studying [Software Engineering](http://www.iit.du.ac.bd/) at the University of Dhaka, Bangladesh<br/>
 💭 Currently learning about System Design, Human Computer Interaction, AI and Web development <br/>
 🔭 I’m currently involved with [BARTA] exploring Innovative NLP Solutions.
 <br/>
