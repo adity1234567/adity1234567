@@ -4,7 +4,9 @@
 👩🏻‍💻 Aspiring Software Engineer sharing my journey and ongoing learnings in tech.<br/>
 👩🏻‍🎓 Studying [Software Engineering](http://www.iit.du.ac.bd/) at the University of Dhaka, Bangladesh<br/>
 💭 Currently learning about System Design, Human Computer Interaction, AI and Web development <br/>
-🔭 I’m currently involved with [BARTA] exploring Innovative NLP Solutions.
+🔭 I’m currently involved with [BARTA] exploring Innovative NLP Solutions.<br/>
+My Resume: [Adity_Khisa](https://docs.google.com/document/d/146H2KLYnpZ2bTqbHFzgS3oMVqyP3SBAZ0I5bP4iGdGM/edit?tab=t.0)
+
 <br/>
 <br/>
 
