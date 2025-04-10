@@ -6,9 +6,11 @@
 💭 Currently learning about System Design, Human Computer Interaction, AI and Web development <br/>
 🔭 I’m currently involved with [BARTA] exploring Innovative NLP Solutions.<br/>
 
-I truly love working for Indigenous people in Bangladesh to help preserve their culture, education, and more 
+- I truly love working for Indigenous people in Bangladesh to help preserve their culture, education, and more 
 and also involved in non-profit volunteer works alongside my tech career :)
-
+- Diving into the world of Arduino—exploring its basics one circuit at a time. 🌱✨
+- Trying to get back to the Competitive Programming grind—sharpening logic and chasing optimizations. ⚔️💻
+  
 My Resume: [Adity_Khisa](https://docs.google.com/document/d/146H2KLYnpZ2bTqbHFzgS3oMVqyP3SBAZ0I5bP4iGdGM/edit?tab=t.0)
 
 <br/>
