@@ -9,9 +9,10 @@
 - I truly love working for Indigenous people in Bangladesh to help preserve their culture, education, and more 
 and also involved in non-profit volunteer works alongside my tech career :)
 
-🌱✨ Diving into the world of Arduino—exploring its basics one circuit at a time. 
-⚔️💻 Trying to get back to the Competitive Programming grind—sharpening logic and chasing optimizations. 
-  
+🌱 Diving into the world of Arduino—exploring its basics one circuit at a time. <br/>
+⚔️ Trying to get back to the Competitive Programming grind—sharpening logic and chasing optimizations. 
+📖 Currently reading a book titled “উপজাতীয় গবেষণা পত্রিকা” — an insightful collection exploring the lives, struggles, and heritage of indigenous communities.
+
 My Resume: [Adity_Khisa](https://docs.google.com/document/d/146H2KLYnpZ2bTqbHFzgS3oMVqyP3SBAZ0I5bP4iGdGM/edit?tab=t.0)
 
 <br/>
