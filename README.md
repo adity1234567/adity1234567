@@ -11,19 +11,17 @@ and also involved in non-profit volunteer works alongside my tech career :)
 
 <!--🌱 Diving into the world of Arduino—exploring its basics one circuit at a time. <br/>
 ⚔️ Trying to get back to the Competitive Programming grind—sharpening logic and chasing optimizations. <br/>-->
-📖 Currently reading a book titled “উপজাতীয় গবেষণা পত্রিকা” — an insightful collection exploring the lives, struggles, and heritage of indigenous communities.
 
-My Resume: [Adity_Khisa](https://docs.google.com/document/d/146H2KLYnpZ2bTqbHFzgS3oMVqyP3SBAZ0I5bP4iGdGM/edit?tab=t.0)
 
 <br/>
 <br/>
-
+<!--
 
 ## 🏆 Achievements
 
 - [Microsoft Learn Achievement](https://learn.microsoft.com/api/achievements/share/en-us/aikoaera-2110/8ZASLSTW?sharingId=305188913E21FA5A)
 
-
+-->
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
 
