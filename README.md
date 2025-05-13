@@ -16,6 +16,7 @@ and also involved in non-profit volunteer works alongside my tech career :)
 
 ## 🌐 Connect with me
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsse1334@iit.du.ac.bd)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@bsse1334)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/aiko_aera)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%235C5C5C.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aiko_aera)
