@@ -11,7 +11,14 @@ and also involved in non-profit volunteer works alongside my tech career :)
 
 <!--🌱 Diving into the world of Arduino—exploring its basics one circuit at a time. <br/>
 ⚔️ Trying to get back to the Competitive Programming grind—sharpening logic and chasing optimizations. <br/>-->
+<br/>
+<br/>
 
+## 🌐 Connect with me
+
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@bsse1334)
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/aiko_aera)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%235C5C5C.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aiko_aera)
 
 <br/>
 <br/>
