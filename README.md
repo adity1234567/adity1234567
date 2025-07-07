@@ -1,5 +1,6 @@
 
 # 👋 Hi, I'm Adity!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adity1234567&label=Profile%20views&color=0e75b6&style=flat" alt="adity" /> </p>
 
 👩🏻‍💻 Aspiring Software Engineer sharing my journey and ongoing learnings in tech.<br/>
 👩🏻‍🎓 Studying [Software Engineering](http://www.iit.du.ac.bd/) at the University of Dhaka, Bangladesh<br/>
