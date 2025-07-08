@@ -49,7 +49,7 @@ and also involved in non-profit volunteer works alongside my tech career :)
 <br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=adity1234567&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adity1234567&label=Profile%20views&color=0e75b6&style=flat" alt="adity" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=adity1234567&label=Profile%20views&color=0e75b6&style=flat" alt="adity" /> </p>
 
 <!--
 **adity1234567/adity1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
